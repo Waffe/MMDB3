@@ -20,7 +20,6 @@
         <BitmapImage x:Key="movieImage" UriSource="Resources/movie.png"/>
         <BitmapImage x:Key="actorDirectorImage" UriSource="Resources/actor_director.png"/>
         <BitmapImage x:Key="unkownImage" UriSource="Resources/unknown.png"/>
-        
     </Window.Resources>
     <Grid>
         <Grid.Background>

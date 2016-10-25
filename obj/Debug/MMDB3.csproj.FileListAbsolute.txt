@@ -13,3 +13,4 @@ E:\GOOGLE DRIVE ITHS\ITHS\Labb\Labb 3\NY LABB\obj\Debug\MMDB3.csproj.GenerateRes
 E:\GOOGLE DRIVE ITHS\ITHS\Labb\Labb 3\NY LABB\obj\Debug\MMDB3.exe
 E:\GOOGLE DRIVE ITHS\ITHS\Labb\Labb 3\NY LABB\obj\Debug\MMDB3.pdb
 E:\GOOGLE DRIVE ITHS\ITHS\Labb\Labb 3\NY LABB\obj\Debug\MMDB3.csprojResolveAssemblyReference.cache
+E:\GOOGLE DRIVE ITHS\ITHS\Labb\Labb 3\NY LABB\bin\Debug\Resources\director.png

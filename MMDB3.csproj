@@ -120,7 +120,9 @@
     <Resource Include="Resources\movie.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\director.png" />
+    <EmbeddedResource Include="Resources\director.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Resource Include="CastOrCrew.xml" />
